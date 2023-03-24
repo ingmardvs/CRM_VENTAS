@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A617F609-0122-49F2-A490-8A84F6CC730D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CRM.FmLogin</StartupObject>
+    <RootNamespace>CRM</RootNamespace>
+    <AssemblyName>CRM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\developer\Desktop\Test CRM IDEAL\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CRM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CRM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9728B7873C1836195728000098576FA300424F94</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CRM_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios\FmActProsGral.designer.vb">
+      <DependentUpon>FmActProsGral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmActProsGral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmENG.designer.vb">
+      <DependentUpon>FmENG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmENG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmEC.designer.vb">
+      <DependentUpon>FmEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmPE.designer.vb">
+      <DependentUpon>FmPE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmPE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmAcc.designer.vb">
+      <DependentUpon>FmAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoAcc.designer.vb">
+      <DependentUpon>FmSeguimientoAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoVal.designer.vb">
+      <DependentUpon>FmSeguimientoVal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoVal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoFI.designer.vb">
+      <DependentUpon>FmSeguimientoFI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoFI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoEnt.designer.vb">
+      <DependentUpon>FmSeguimientoEnt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoEnt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoGTES.designer.vb">
+      <DependentUpon>FmSeguimientoGTES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoGTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoBDC.designer.vb">
+      <DependentUpon>FmSeguimientoBDC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoBDC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoAux.designer.vb">
+      <DependentUpon>FmSeguimientoAux.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoAux.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmActividades.designer.vb">
+      <DependentUpon>FmActividades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmActividades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmActPros.designer.vb">
+      <DependentUpon>FmActPros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmActPros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmAltaPros.Designer.vb">
+      <DependentUpon>FmAltaPros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmAltaPros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmBuscar.Designer.vb">
+      <DependentUpon>FmBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmAltaVendedor.Designer.vb">
+      <DependentUpon>FmAltaVendedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmAltaVendedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmCitas.designer.vb">
+      <DependentUpon>FmCitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmCitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmCitasHist.designer.vb">
+      <DependentUpon>FmCitasHist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmCitasHist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmCompetidor.designer.vb">
+      <DependentUpon>FmCompetidor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmCompetidor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmLogin.Designer.vb">
+      <DependentUpon>FmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoVend.designer.vb">
+      <DependentUpon>FmSeguimientoVend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoVend.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoFI2.designer.vb">
+      <DependentUpon>FmSeguimientoFI2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoFI2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoValuador2.designer.vb">
+      <DependentUpon>FmSeguimientoValuador2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimientoValuador2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimiento.designer.vb">
+      <DependentUpon>FmSeguimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmSeguimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmTAC.designer.vb">
+      <DependentUpon>FmTAC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmTAC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmAltaUsuarios.Designer.vb">
+      <DependentUpon>FmAltaUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmAltaUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmParametros.Designer.vb">
+      <DependentUpon>FmParametros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmParametros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FmMenu_Principal.Designer.vb">
+      <DependentUpon>FmMenu_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FmMenu_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procedimientos\Libreria.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\FmActProsGral.resx">
+      <DependentUpon>FmActProsGral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmENG.resx">
+      <DependentUpon>FmENG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmEC.resx">
+      <DependentUpon>FmEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmPE.resx">
+      <DependentUpon>FmPE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmAcc.resx">
+      <DependentUpon>FmAcc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoAcc.resx">
+      <DependentUpon>FmSeguimientoAcc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoVal.resx">
+      <DependentUpon>FmSeguimientoVal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoFI.resx">
+      <DependentUpon>FmSeguimientoFI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoEnt.resx">
+      <DependentUpon>FmSeguimientoEnt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoGTES.resx">
+      <DependentUpon>FmSeguimientoGTES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoBDC.resx">
+      <DependentUpon>FmSeguimientoBDC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoAux.resx">
+      <DependentUpon>FmSeguimientoAux.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmActividades.resx">
+      <DependentUpon>FmActividades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmActPros.resx">
+      <DependentUpon>FmActPros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmAltaPros.resx">
+      <DependentUpon>FmAltaPros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmBuscar.resx">
+      <DependentUpon>FmBuscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmAltaVendedor.resx">
+      <DependentUpon>FmAltaVendedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmCitas.resx">
+      <DependentUpon>FmCitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmCitasHist.resx">
+      <DependentUpon>FmCitasHist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmCompetidor.resx">
+      <DependentUpon>FmCompetidor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmLogin.resx">
+      <DependentUpon>FmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoVend.resx">
+      <DependentUpon>FmSeguimientoVend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoFI2.resx">
+      <DependentUpon>FmSeguimientoFI2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimientoValuador2.resx">
+      <DependentUpon>FmSeguimientoValuador2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmSeguimiento.resx">
+      <DependentUpon>FmSeguimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmTAC.resx">
+      <DependentUpon>FmTAC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmAltaUsuarios.resx">
+      <DependentUpon>FmAltaUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmParametros.resx">
+      <DependentUpon>FmParametros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FmMenu_Principal.resx">
+      <DependentUpon>FmMenu_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

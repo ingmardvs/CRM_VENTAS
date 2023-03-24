@@ -1,0 +1,106 @@
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Release\CRM.exe.manifest
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Release\CRM.application
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Release\CRM.exe
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Release\CRM.pdb
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Release\CRM.xml
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Resources.resources
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.exe.manifest
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.application
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.exe
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.xml
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.pdb
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.exe.config
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.exe
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.xml
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.pdb
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.exe.manifest
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.application
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.exe
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.pdb
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Release\CRM.xml
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Altacliente.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Altausuario.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Menuprincipal.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Resources.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.exe.manifest
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.application
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Altavendedor.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmParametros.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Encuesta.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.Seguimiento_cte.resources
+C:\Users\Draven\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmParametros.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmSeguimiento.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmEncuesta.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmAlta_Cli.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmAltaUsu.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmAltaVend.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmMenu_Princ.resources
+C:\Users\developer\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Release\CRM.FmAlta_Cli_Hostess.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.exe
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.xml
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.pdb
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmSeguimiento.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmParametros.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.Resources.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.vbproj.GenerateResource.Cache
+D:\Desarrollos\Sistema\CRM\CRM\bin\Release\CRM.exe.manifest
+D:\Desarrollos\Sistema\CRM\CRM\bin\Release\CRM.application
+D:\Desarrollos\Sistema\CRM\CRM\bin\Release\CRM.exe
+D:\Desarrollos\Sistema\CRM\CRM\bin\Release\CRM.pdb
+D:\Desarrollos\Sistema\CRM\CRM\bin\Release\CRM.xml
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.exe.manifest
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.application
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmAltaVendedor.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmAltaUsuarios.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmMenu_Principal.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmAltaPros.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmActPros.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmCita.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmBuscar.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmCitasHist.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmActividades.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmCompetidor.resources
+D:\Desarrollos\Sistema\CRM\CRM\obj\x86\Release\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.exe
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.xml
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.pdb
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Release\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Release\CRM.application
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Release\CRM.exe
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Release\CRM.pdb
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Release\CRM.xml
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmActividades.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmActPros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmCita.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmLogin.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmParametros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.Resources.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.application
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmSeguimientoValuador.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Release\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM\bin\Release\CRM.exe.config
+C:\Users\developer\Desktop\CRM\obj\x86\Release\CRM.exe
+C:\Users\developer\Desktop\CRM\obj\x86\Release\CRM.xml
+C:\Users\developer\Desktop\CRM\obj\x86\Release\CRM.pdb
+C:\Users\marcos\Desktop\Vb net\CRM\bin\Release\CRM.exe.config
+C:\Users\marcos\Desktop\Vb net\CRM\obj\x86\Release\CRM.exe
+C:\Users\marcos\Desktop\Vb net\CRM\obj\x86\Release\CRM.xml
+C:\Users\marcos\Desktop\Vb net\CRM\obj\x86\Release\CRM.pdb
+C:\Users\marcos\Desktop\Vb net\-CRM\bin\Release\CRM.exe.config
+C:\Users\marcos\Desktop\Vb net\-CRM\obj\x86\Release\CRM.exe
+C:\Users\marcos\Desktop\Vb net\-CRM\obj\x86\Release\CRM.xml
+C:\Users\marcos\Desktop\Vb net\-CRM\obj\x86\Release\CRM.pdb

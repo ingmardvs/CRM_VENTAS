@@ -1,0 +1,1269 @@
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.xml
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Alta.resources
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Encuesta.resources
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Form1.resources
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\bin\Debug\CRM.application
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\documents\visual studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Menuprincipal.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\avanzado inge\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\avanzado inge\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\avanzado inge\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\avanzado inge\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\avanzado inge\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\avanzado inge\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\developer\Desktop\crmmmmmm\CRM\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRMS\crm 21\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\crm 19-02\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 12\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 13\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM ENTREGA CON AVANCES lap 14 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM ORIGINAL\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 26 03 2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\Respaldos CRM\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM entrefa\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM final\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD 2\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEnganche.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales MOD 3\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Draven\Desktop\CRM personas morales MOD 33\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.manifest
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.application
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe.manifest
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.application
+C:\Users\Developer\Desktop\CRM personas morales MOD 33 ULT\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmENG.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActProsGral.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmENG.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 06-08-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.exe
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.pdb
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\bin\Debug\CRM.xml
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActProsGral.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmENG.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActividades.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmActPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCita.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmTAC.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmParametros.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.Resources.resources
+C:\Users\developer\Desktop\CRM personas morales MOD 03-09-18\CRM entrega\CRM ORIGINAL 16-04-2018\CRM ENTREGA CON AVANCES lap 15 ori\lap 21\20-2 crm\crm 21 el+avanzado\crmmmmmm\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+H:\CRM\bin\Debug\CRM.exe.config
+H:\CRM\obj\x86\Debug\CRM.exe
+H:\CRM\obj\x86\Debug\CRM.xml
+H:\CRM\obj\x86\Debug\CRM.pdb
+H:\CRM\bin\Debug\CRM.exe
+H:\CRM\bin\Debug\CRM.pdb
+H:\CRM\bin\Debug\CRM.xml
+H:\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+H:\CRM\obj\x86\Debug\CRM.FmActProsGral.resources
+H:\CRM\obj\x86\Debug\CRM.FmENG.resources
+H:\CRM\obj\x86\Debug\CRM.FmEC.resources
+H:\CRM\obj\x86\Debug\CRM.FmPE.resources
+H:\CRM\obj\x86\Debug\CRM.FmAcc.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+H:\CRM\obj\x86\Debug\CRM.FmActividades.resources
+H:\CRM\obj\x86\Debug\CRM.FmActPros.resources
+H:\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+H:\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+H:\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+H:\CRM\obj\x86\Debug\CRM.FmCita.resources
+H:\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+H:\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+H:\CRM\obj\x86\Debug\CRM.FmLogin.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+H:\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+H:\CRM\obj\x86\Debug\CRM.FmTAC.resources
+H:\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+H:\CRM\obj\x86\Debug\CRM.FmParametros.resources
+H:\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+H:\CRM\obj\x86\Debug\CRM.Resources.resources
+H:\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+C:\Users\developer\Desktop\CRM\bin\Debug\CRM.exe.config
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmActProsGral.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmENG.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmEC.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmPE.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmAcc.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmLogin.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+C:\Users\developer\Desktop\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+G:\CRM\bin\Debug\CRM.exe.config
+G:\CRM\obj\x86\Debug\CRM.exe
+G:\CRM\obj\x86\Debug\CRM.xml
+G:\CRM\obj\x86\Debug\CRM.pdb
+G:\CRM\bin\Debug\CRM.exe
+G:\CRM\bin\Debug\CRM.pdb
+G:\CRM\bin\Debug\CRM.xml
+G:\CRM\obj\x86\Debug\CRM.vbprojResolveAssemblyReference.cache
+G:\CRM\obj\x86\Debug\CRM.FmActProsGral.resources
+G:\CRM\obj\x86\Debug\CRM.FmENG.resources
+G:\CRM\obj\x86\Debug\CRM.FmEC.resources
+G:\CRM\obj\x86\Debug\CRM.FmPE.resources
+G:\CRM\obj\x86\Debug\CRM.FmAcc.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoAcc.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoVal.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoFI.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoEnt.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoGTES.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoBDC.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoAux.resources
+G:\CRM\obj\x86\Debug\CRM.FmActividades.resources
+G:\CRM\obj\x86\Debug\CRM.FmActPros.resources
+G:\CRM\obj\x86\Debug\CRM.FmAltaPros.resources
+G:\CRM\obj\x86\Debug\CRM.FmBuscar.resources
+G:\CRM\obj\x86\Debug\CRM.FmAltaVendedor.resources
+G:\CRM\obj\x86\Debug\CRM.FmCita.resources
+G:\CRM\obj\x86\Debug\CRM.FmCitasHist.resources
+G:\CRM\obj\x86\Debug\CRM.FmCompetidor.resources
+G:\CRM\obj\x86\Debug\CRM.FmLogin.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoVend.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoFI2.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimientoValuador2.resources
+G:\CRM\obj\x86\Debug\CRM.FmSeguimiento.resources
+G:\CRM\obj\x86\Debug\CRM.FmTAC.resources
+G:\CRM\obj\x86\Debug\CRM.FmAltaUsuarios.resources
+G:\CRM\obj\x86\Debug\CRM.FmParametros.resources
+G:\CRM\obj\x86\Debug\CRM.FmMenu_Principal.resources
+G:\CRM\obj\x86\Debug\CRM.Resources.resources
+G:\CRM\obj\x86\Debug\CRM.vbproj.GenerateResource.Cache
+U:\Sistemas\Desarrollos\IT APPS ANTONIO\Fuentes\CRM\bin\Debug\CRM.exe.config
+U:\Sistemas\Desarrollos\IT APPS ANTONIO\Fuentes\CRM\obj\x86\Debug\CRM.exe
+U:\Sistemas\Desarrollos\IT APPS ANTONIO\Fuentes\CRM\obj\x86\Debug\CRM.xml
+U:\Sistemas\Desarrollos\IT APPS ANTONIO\Fuentes\CRM\obj\x86\Debug\CRM.pdb
